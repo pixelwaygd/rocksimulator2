@@ -1,3 +1,7 @@
+IMPORTANT: THIS VERSION OF ROCK SIMULATOR USES TURBOWARP FUNCTIONS. THE ORIGINAL PROJECT IS NOT THE SAME.
+
+
+
 This is rock simulator! A game I made a year ago, in 2025, and is honestly actually fun!
 Basically the whole premise is you are a rock; and you wait for things to happen. Every
 second counts as currency, and you use the currency to buy new skins. There are also
